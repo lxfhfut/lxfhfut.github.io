@@ -38,7 +38,7 @@ body a:hover{
 	background-size:cover;
 	-moz-background-size:cover;
     position: relative;
-    width: 60%;
+    width: 80%;
     margin:0 auto;
 }
 .banner-info{
@@ -112,7 +112,7 @@ ul.address li ul.address-text li a:hover{
 .top-nav {
     /*background: #008B8B;*/
     background: #64ACDE;
-    width: 60%;
+    width: 80%;
     height: auto;
     margin:0 auto;
 }
