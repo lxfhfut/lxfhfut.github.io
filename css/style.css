@@ -33,11 +33,13 @@ body a:hover{
 }
 /*--baner--*/
 .banner {
-	background:url(../images/a.jpg)no-repeat center 0px;
+	background:url(../images/a.jpg) no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
 	-moz-background-size:cover;
     position: relative;
+    width: 60%;
+    margin:0 auto;
 }
 .banner-info{
 	background: url(../images/dott.png)repeat 0px 0px;
@@ -110,6 +112,9 @@ ul.address li ul.address-text li a:hover{
 .top-nav {
     /*background: #008B8B;*/
     background: #64ACDE;
+    width: 60%;
+    height: auto;
+    margin:0 auto;
 }
 .nav > li {
     display: inline-block;
