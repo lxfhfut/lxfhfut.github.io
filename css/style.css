@@ -214,14 +214,16 @@ p {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    /*border-color: transparent transparent transparent rgb(0, 139, 139);*/
+/*     border-color: transparent transparent transparent rgb(0, 139, 139); */
     border-color: transparent transparent transparent rgb(100, 172, 222);
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #FFC003;
+/*     color: #FFC003; */
+    background: #64ACDE;
+    color: #fff;
     margin-bottom: .5em;
-    border: 1px solid #FFC003;
+/*     border: 1px solid #FFC003; */
     display: inline-block;
     padding: 0.3em 1.2em 0.5em;
 }
@@ -279,7 +281,8 @@ p {
 /*--//work--*/
 /*--education--*/
 .education .work-info h5 {
-    color: #000;
+color: #fff;
+/*     color: #000; */
 }
 /*--//education--*/
 /*--skills--*/
